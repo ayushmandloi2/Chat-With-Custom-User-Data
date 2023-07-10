@@ -7,7 +7,7 @@ from langchain.document_loaders.csv_loader import CSVLoader
 from langchain.document_loaders import PyPDFLoader
 from langchain.vectorstores import FAISS
 import tempfile
-import constant
+# import constant
 import os
 
 # os.environ['OPENAI_API_KEY'] = constant.APIkey
